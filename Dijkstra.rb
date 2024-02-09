@@ -1,3 +1,6 @@
+#Estudante: João Victor 
+#Turma: S4 de Sistemas
+
 class Grafo
   attr_reader :grafo, :nos, :anterior, :distancia
 
